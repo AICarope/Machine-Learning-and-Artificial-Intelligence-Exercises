@@ -2,7 +2,7 @@ This repository demonstrates the application of technical and analytical capabil
 
 • Develop a comprehensive understanding of ML/AI concepts, and identify the best ML models to fit various business situations
 
-• Learn how to implement the ML/data science life cycle, and devise cutting-edge solutions to real-life problems within your organization
+• Learn how to implement the ML/data science life cycle, and devise cutting-edge solutions to real-life problems within an organization
 
 • Interact and collaborate with industry experts to understand the technical and business applications of ML/AI
 
