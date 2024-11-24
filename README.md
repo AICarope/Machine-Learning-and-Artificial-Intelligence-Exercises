@@ -10,7 +10,7 @@ This repository demonstrates the application of technical and analytical capabil
 - **Jupyter Notebooks**: For interactive development and data analysis.
 - **Pandas**: Data manipulation and analysis.
 - **Seaborn & Plotly**: Data visualization libraries for creating insightful plots.
-- **PyTorch**: Machine learning and deep learning framework.
+- **TensorFlow**: Machine learning and deep learning framework.
 - **ChatGPT**: Generative AI model used for exploring text generation capabilities.
 
 ## Key Objectives
